@@ -1,0 +1,12 @@
+C:\Users\flobr\source\repos\Dessin\bin\Debug\Dessin.exe.config
+C:\Users\flobr\source\repos\Dessin\bin\Debug\Dessin.exe
+C:\Users\flobr\source\repos\Dessin\bin\Debug\Dessin.pdb
+C:\Users\flobr\source\repos\Dessin\bin\Debug\Dessin.xml
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.vbproj.AssemblyReference.cache
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.Form1.resources
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.Resources.resources
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.vbproj.GenerateResource.cache
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.exe
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.xml
+C:\Users\flobr\source\repos\Dessin\obj\Debug\Dessin.pdb
