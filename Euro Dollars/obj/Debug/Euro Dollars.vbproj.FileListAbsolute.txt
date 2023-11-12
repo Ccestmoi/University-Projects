@@ -1,0 +1,37 @@
+C:\Users\l1-118\source\repos\Euro Dollars\bin\Debug\Euro Dollars.exe.config
+C:\Users\l1-118\source\repos\Euro Dollars\bin\Debug\Euro Dollars.exe
+C:\Users\l1-118\source\repos\Euro Dollars\bin\Debug\Euro Dollars.pdb
+C:\Users\l1-118\source\repos\Euro Dollars\bin\Debug\Euro Dollars.xml
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.vbproj.AssemblyReference.cache
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.vbproj.SuggestedBindingRedirects.cache
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro_Dollars.Form1.resources
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro_Dollars.Resources.resources
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.vbproj.GenerateResource.cache
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.vbproj.CoreCompileInputs.cache
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.exe
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.xml
+C:\Users\l1-118\source\repos\Euro Dollars\obj\Debug\Euro Dollars.pdb
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\bin\Debug\Euro Dollars.exe.config
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\bin\Debug\Euro Dollars.exe
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\bin\Debug\Euro Dollars.pdb
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\bin\Debug\Euro Dollars.xml
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro Dollars.vbproj.AssemblyReference.cache
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro_Dollars.Form1.resources
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro_Dollars.Resources.resources
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro Dollars.vbproj.GenerateResource.cache
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro Dollars.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro Dollars.exe
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro Dollars.xml
+C:\Users\flobr\OneDrive\Documents\Euro Dollars\obj\Debug\Euro Dollars.pdb
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\bin\Debug\Euro Dollars.exe.config
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\bin\Debug\Euro Dollars.exe
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\bin\Debug\Euro Dollars.pdb
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\bin\Debug\Euro Dollars.xml
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro Dollars.vbproj.AssemblyReference.cache
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro_Dollars.Form1.resources
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro_Dollars.Resources.resources
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro Dollars.vbproj.GenerateResource.cache
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro Dollars.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro Dollars.exe
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro Dollars.xml
+C:\Users\flobr\OneDrive\Documents\Programmes TP\Euro Dollars\obj\Debug\Euro Dollars.pdb
