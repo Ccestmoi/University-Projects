@@ -1,0 +1,12 @@
+C:\Users\flobr\source\repos\Carreaux\bin\Debug\Carreaux.exe.config
+C:\Users\flobr\source\repos\Carreaux\bin\Debug\Carreaux.exe
+C:\Users\flobr\source\repos\Carreaux\bin\Debug\Carreaux.pdb
+C:\Users\flobr\source\repos\Carreaux\bin\Debug\Carreaux.xml
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.vbproj.AssemblyReference.cache
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.Form1.resources
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.Resources.resources
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.vbproj.GenerateResource.cache
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.exe
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.xml
+C:\Users\flobr\source\repos\Carreaux\obj\Debug\Carreaux.pdb

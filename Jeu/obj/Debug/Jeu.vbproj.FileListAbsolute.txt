@@ -1,0 +1,12 @@
+C:\Users\flobr\source\repos\Jeu\bin\Debug\Jeu.exe.config
+C:\Users\flobr\source\repos\Jeu\bin\Debug\Jeu.exe
+C:\Users\flobr\source\repos\Jeu\bin\Debug\Jeu.pdb
+C:\Users\flobr\source\repos\Jeu\bin\Debug\Jeu.xml
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.vbproj.AssemblyReference.cache
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.Form1.resources
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.Resources.resources
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.vbproj.GenerateResource.cache
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.exe
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.xml
+C:\Users\flobr\source\repos\Jeu\obj\Debug\Jeu.pdb

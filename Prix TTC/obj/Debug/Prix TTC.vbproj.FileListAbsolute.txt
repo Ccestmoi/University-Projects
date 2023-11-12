@@ -1,0 +1,13 @@
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.vbproj.AssemblyReference.cache
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.vbproj.SuggestedBindingRedirects.cache
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix_TTC.Form1.resources
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix_TTC.Resources.resources
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.vbproj.GenerateResource.cache
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.vbproj.CoreCompileInputs.cache
+C:\Users\l1-118\source\repos\Prix TTC\bin\Debug\Prix TTC.exe.config
+C:\Users\l1-118\source\repos\Prix TTC\bin\Debug\Prix TTC.exe
+C:\Users\l1-118\source\repos\Prix TTC\bin\Debug\Prix TTC.pdb
+C:\Users\l1-118\source\repos\Prix TTC\bin\Debug\Prix TTC.xml
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.exe
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.xml
+C:\Users\l1-118\source\repos\Prix TTC\obj\Debug\Prix TTC.pdb

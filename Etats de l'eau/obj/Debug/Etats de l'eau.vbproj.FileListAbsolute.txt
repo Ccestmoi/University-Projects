@@ -1,0 +1,12 @@
+C:\Users\flobr\source\repos\Etats de l'eau\bin\Debug\Etats de l'eau.exe.config
+C:\Users\flobr\source\repos\Etats de l'eau\bin\Debug\Etats de l'eau.exe
+C:\Users\flobr\source\repos\Etats de l'eau\bin\Debug\Etats de l'eau.pdb
+C:\Users\flobr\source\repos\Etats de l'eau\bin\Debug\Etats de l'eau.xml
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats de l'eau.vbproj.AssemblyReference.cache
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats_de_l_eau.Form1.resources
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats_de_l_eau.Resources.resources
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats de l'eau.vbproj.GenerateResource.cache
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats de l'eau.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats de l'eau.exe
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats de l'eau.xml
+C:\Users\flobr\source\repos\Etats de l'eau\obj\Debug\Etats de l'eau.pdb

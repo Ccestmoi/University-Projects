@@ -1,0 +1,12 @@
+C:\Users\flobr\source\repos\Random Tab\bin\Debug\Random Tab.exe.config
+C:\Users\flobr\source\repos\Random Tab\bin\Debug\Random Tab.exe
+C:\Users\flobr\source\repos\Random Tab\bin\Debug\Random Tab.pdb
+C:\Users\flobr\source\repos\Random Tab\bin\Debug\Random Tab.xml
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random Tab.vbproj.AssemblyReference.cache
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random_Tab.Form1.resources
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random_Tab.Resources.resources
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random Tab.vbproj.GenerateResource.cache
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random Tab.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random Tab.exe
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random Tab.xml
+C:\Users\flobr\source\repos\Random Tab\obj\Debug\Random Tab.pdb
