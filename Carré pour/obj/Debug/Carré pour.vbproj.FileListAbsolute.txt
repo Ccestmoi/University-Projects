@@ -1,0 +1,12 @@
+C:\Users\flobr\source\repos\Carré pour\bin\Debug\Carré pour.exe.config
+C:\Users\flobr\source\repos\Carré pour\bin\Debug\Carré pour.exe
+C:\Users\flobr\source\repos\Carré pour\bin\Debug\Carré pour.pdb
+C:\Users\flobr\source\repos\Carré pour\bin\Debug\Carré pour.xml
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré pour.vbproj.AssemblyReference.cache
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré_pour.Form1.resources
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré_pour.Resources.resources
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré pour.vbproj.GenerateResource.cache
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré pour.vbproj.CoreCompileInputs.cache
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré pour.exe
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré pour.xml
+C:\Users\flobr\source\repos\Carré pour\obj\Debug\Carré pour.pdb
