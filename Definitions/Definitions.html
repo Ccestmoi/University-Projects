@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title>Définitions</title>
+    </head>
+
+    <body>
+        <link rel="stylesheet" type="text/css" href="CSS/Css.css">
+
+    <h1>Définitions</h1>
+
+    <a id="Retour"></a>
+    <p>
+        <h2> HTML : </h2>
+        HTML de son nom complet HyperText Markup Language est un langage de programmation créé par Tim Berners-Lee.
+        C'est ce langage qui permet de créer l'ensemble des sites web. Il sert à la mise en forme d'un site web.
+    </p>
+    <hr>
+    <p>
+        <h2> CSS : </h2>
+        CSS signifie Cascading Style Sheet ou feuille de style en cascade en français. Ce langage de programmation
+        sert à la gestion de l'apparence des sites web, il permet par exemple de choisir la police, l'emplacement de notre contenu de façon précise.         Pour les rendre plus agréables à lire.<br>
+    </p>
+    <hr>
+    <p>
+        <h2> Balise : </h2>
+        Une balise est entourée de deux chevrons < et >. Il y a deux types de balises dans le language HTML : les conteneurs et les marqueurs.
+            <h3> Conteneur : </h3>
+            Un conteneur est ce qui entoure un contenu il est constitué d'une balise ouvrante <'nom'> et d'une balise fermante <'/nom'>,
+            nom étant la spécification du conteneur. Par exemple pour un paragraphe (qui est un conteneur), celui est ouvert par la balise <'p'> et 
+            est fermé par la balise <'/p'>.
+
+            <h3> Marqueur : </h3>
+            Un marqueur sert à intégrer un élément à un endroit spécifique du site web, il peut s'agir d'une image, d'un fichier audio ou même 
+            un lien externe. Par exemple pour intégrer un lien externe il faut le déclarer de la façon suivante : <br> <'a href="https://www.apple.com"'> Libellé du site <'/a'>
+    </p>
+    <hr>
+    <p>
+        <h2> Balise hmtl : </h2>
+        Cette balise sert à délimiter le contenu de la page.
+    </p>
+    <hr>
+    <p>
+        <h2> Balise head :</h2>
+        La balise head est au tout début du code de la page juste après la balise html ouvrante.
+        Celle-ci sert à spécifier les informations sur la page comme le titre et l'encodage du site web (encodage principalement en UTF-8 aujourd'hui).
+    </p>
+    <hr>
+    <p>
+        <h2> Balise body : </h2>
+        Cette balise englobe tout le contenu visible sur la page dans le navigateur. Elle délimite le corps du document. Sans cette balise, rien ne s'affiche dans 
+        le navigateur.
+    </p>
+    <hr>
+    <p>
+        <h2> Balise title : </h2>
+        La balise title sert à donner un titre à la page web ce titre apparaît dans la barre d'onglet du navigateur. Par exemple ici ma balise title est "Définitions" <br>
+        <img src="Images/Title.png" alt="Title" width="300px">
+    </p>
+    <hr>
+    <p>
+        <h2> Balise p :</h2>
+        Cette balise est un conteneur, le conteneur paragraphe (p) qui contient du texte, des marqueurs ou même un autre conteneur.
+    </p>
+    <hr>
+    <p>
+        <h2> Balise h1/h2 :</h2>
+        Cette balise h suivi d'un nombre de 1 à 6 sert à mettre un titre de niveau 1 à 6 suivant le niveau voulu du titre.
+        Le niveau 1 étant de le titre avec la plus grande taille de police et le niveau 6 la plus petite taille. Par exemple, en haut de la page, le mot Définitions est un titre
+        de niveau 1 ; Les titres suivant sont de niveau 2 sauf Conteneur et Marqueur qui sont des titres de niveau 3.
+    </p>
+    <hr>
+    <p> 
+        <h2> Balises em, strong, mark, blockquote et span :</h2>
+        Ces balises servent à mettre en valeur un texte. Par exemple : <br>
+        <em> Texte mis en valeur par em </em> <br>
+        <strong> Texte mis en valeur par strong </strong> <br>
+        <mark> Texte mis en valeur par mark </mark> <br>
+        <blockquote> Texte mis en valeur par blockquote </blockquote>
+        <span> Texte mis en valeur par span </span>
+    </p>
+    <hr>
+    <p>
+        <h2> Balises br et hr :</h2>
+        La balise br est un retour à la ligne, par exemple : <br>
+        Exemple 1 : pas de balise br après les 2 points. <br>
+        Exemple 2 : <br> avec balise br après les 2 points. <br>
+        <hr>
+        La balise hr quant à elle sert est un séparateur, une ligne de la longueur de l'affichage de la page. Exemple au-dessus et en-dessous :
+        <hr>
+    </p>
+    <hr>
+    <p>
+        <h2> Balises ol, ul et li :</h2>
+        La balise ol sert à créer une liste numérotée, ce conteneur inclu le contenur li qui sert à créer les éléments de la liste. <br>
+        Exemple :
+        <ol>
+            <li> Étape 1</li>
+            <li> Étape 2</li>
+            <li> Étape 3</li>
+        </ol> <br>
+        La balise ul sert à créer une liste non numérotée ou liste à puces, ce conteneur inclu aussi le contenur li. <br>
+        Exemple :
+        <ul>
+            <li> Étape 1</li>
+            <li> Étape 2</li>
+            <li> Étape 3</li>
+        </ul>
+    </p>
+    <hr>
+    <p>
+        <h2> Balises table, td, tr :</h2>
+        La balise table sert à créer un tableau, 
+        il peut être déclaré avec un attribut "border=1" qui permet d'afficher les bordures du tableau, la balise tr sert à créer une ligne et 
+        contient la balise td, qui sert à mettre un texte ou image dans la case, 
+        ou la balise th qui sert à afficher le titre d'une cellule.
+          Par exemple : <br>
+         <hr>
+         <table>
+            <tr>
+                <th>Table sans bordures</th>
+                <th>Titre 1</th>
+                <th>Titre 2</th>
+            </tr>
+            <tr>
+                <th>Valeur</th>
+                <td>Contenu 1</td>
+                <td>Contenu 2</td>
+            </tr>
+         </table>
+         <hr>
+         <table border=1>
+            <tr>
+                <th>Table avec bordures</th>
+                <th>Titre 1</th>
+                <th>Titre 2</th>
+            </tr>
+            <tr>
+                <th>Valeur</th>
+                <td>Contenu 1</td>
+                <td>Contenu 2</td>
+            </tr>
+         </table>
+    </p>
+    <hr>
+    <p>
+        <h2> Balise a et img :</h2>
+        La balise img sert à afficher une image stockée localement ou sur le web, cette image peut être redimensionnée avec l'attribut width et/ou height. <br>
+        <br>
+        Exemple d'une image locale : <br> <br>
+        <img src="Images/logo_UBO.png" alt="Logo UBO" width="150px"> <br>
+        <br>
+        Exemple d'une image externe : <br> <br>
+        <img src="https://www.apple.com/newsroom/images/product/iphone/lifestyle/2022/Apple_Shot-on-iphone-macro-challenge_Cat_big.jpg.medium_2x.jpg" alt="" width="150px"> <hr>
+        La balise <'a'> sert à intégrer un lien vers un autre contenu tel qu'un site ou une autre page que l'on a créé, il peut aussi s'agir d'un lien vers une ancre sur notre page, 
+        elle permet aussi de mettre un lien sur une image (hyperimage). Elle se déclare comme ceci : <'a href="lien"'> Texte <'/a'> <br>
+        Par exemple : <a href="https://www.apple.com/newsroom/images/product/iphone/lifestyle/2022/Apple_Shot-on-iphone-macro-challenge_Cat_big.jpg.medium_2x.jpg"> Source de l'image du chat</a> <br>
+        Lien vers une ancre : <a href="#Retour"> Ancre qui renvoie au paragraphe html</a>
+    </p>
+    </body>
+</html>
