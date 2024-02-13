@@ -2,7 +2,6 @@ package tp2;
 
 import utilGraphics.TPGUISwing;
 
-@SuppressWarnings("all")
 public class TP2_3 extends TPGUISwing {
 
 	/** Dessin numéro 1 : récupérer x, y et H (avec getIntF) et
@@ -13,17 +12,42 @@ public class TP2_3 extends TPGUISwing {
 		int x = getIntF("x"); 
 		int y = getIntF("y");
 		int H = getIntF("H");
-		// ...
+		graphDrawLine(x, y, x+H, y-H);
+		graphDrawLine(x+H, y-H, x+2*H, y);
+		graphDrawLine(x+2*H, y, x+H, y+H);
+		graphDrawLine(x+H, y+H, x, y);
 	}
 
 	/** Dessin numéro 2 : récupérer x, y et H et
 	 * dessiner le dessin de l'enoncé */
 	public static void dessin2() {
+		int x = getIntF("x"); 
+		int y = getIntF("y");
+		int H = getIntF("H");
+		graphDrawLine(x, y, x+H, y-H);
+		graphDrawLine(x+H, y-H, x+2*H, y);
+		graphDrawLine(x+2*H, y, x+H, y+H);
+		graphDrawLine(x+H, y+H, x, y);
+		graphDrawLine(x+H/2, y-H/2, x+3*H/2, y+H/2);
+		graphDrawLine(x+H/2, y+H/2, x+3*H/2, y-H/2);
 	}
 
 	/** Dessin numéro 3 : récupérer x, y et H et
 	 * dessiner le dessin de l'enoncé */
 	public static void dessin3() {
+		int x = getIntF("x"); 
+		int y = getIntF("y");
+		int H = getIntF("H");
+		graphDrawLine(x, y, x+H, y-H);
+		graphDrawLine(x+H, y-H, x+2*H, y);
+		graphDrawLine(x+2*H, y, x+H, y+H);
+		graphDrawLine(x+H, y+H, x, y);
+		graphDrawLine(x+H/2, y-H/2, x+3*H/2, y+H/2);
+		graphDrawLine(x+H/2, y+H/2, x+3*H/2, y-H/2);
+		graphDrawLine(x+H/4, y-H/4, x+3*H/4, y+H/4);
+		graphDrawLine(x+H/4, y+H/4, x+3*H/4, y-H/4);
+		graphDrawLine(x+H/4+H, y+H/4, x+H+3*H/4, y-H/4);
+		graphDrawLine(x+H/4+H, y-H/4, x+H+3*H/4, y+H/4);
 	}
 
 	/***************** NE PAS MODIFIER AU-DELA DE CETTE LIGNE ****************/

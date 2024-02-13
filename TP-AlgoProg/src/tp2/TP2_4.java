@@ -7,14 +7,21 @@ public class TP2_4 extends TPGUISwing {
 	/** Question1 : recupère numéro de ligne et colonne (champs "lig" et "col")
 	 *  et dessine une croix sur la case correspondante */
 	public static void question1() {
-
+		int lig = getIntF("lig");
+		int col = getIntF("col");
+		graphDrawLine(100+col*50, 10+lig*50,100+(col-1)*50,10+(lig-1)*50);
+		graphDrawLine(100+col*50, 10+(lig-1)*50,100+(col-1)*50,10+lig*50);
 	}
 
 	/** Question2 : récupère un numero de case (champs "num") 
 	 * (a partir de 1, de gauche a droite et de base en haut),
 	 *  et dessine une croix sur la case correspondante */
 	public static void question2() {
-
+		int num = getIntF("num");
+		int lig = (num-1)/11+1;
+		int col = (num-1)%11+1;
+		graphDrawLine(100+col*50, 10+lig*50,100+(col-1)*50,10+(lig-1)*50);
+		graphDrawLine(100+col*50, 10+(lig-1)*50,100+(col-1)*50,10+lig*50);
 	}
 
 	/** Question3 : prend en parametre les coordonnees (x,y) d'un point sur
@@ -25,7 +32,11 @@ public class TP2_4 extends TPGUISwing {
 	 *  @param x abscisse du point 
 	 *  @param y ordonnée du point */
 	public static void question3(int x, int y) {
-
+		int col, lig;
+		col = (x-50)/50;
+		graphOut.println("Colonne: "+col);
+		lig = (y-10)/50+1;
+		graphOut.println("Ligne: "+lig);
 	}
 
 	/** dessine_grille (déjà faite): dessine une grille 10x8 à
